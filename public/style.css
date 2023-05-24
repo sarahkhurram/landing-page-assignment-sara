@@ -1,0 +1,139 @@
+.top {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    float: left;
+    background-color: #e4a286;
+}
+
+.logo {
+    margin: 10px;
+    padding: 0px;
+    width: 10%;
+    float: left;
+}
+
+.links {
+    margin: 30px 20px 10px 140px;
+    padding: 0px;
+    width: 70%;
+    float: left;
+}
+
+.logo img {
+    margin: 5px 5px 5px 30px;
+    padding: 0px;
+    width: 60%;
+    float: left;
+}
+
+#home,
+#about,
+#contact,
+#gallery {
+    margin: 0px;
+    padding: 10px;
+    width: 20%;
+    float: left;
+    list-style-type: none;
+    font-style: oblique;
+    font-family: cursive;
+    font-size: 20px;
+
+}
+
+a {
+    text-decoration: none;
+    color: #934500;
+}
+
+.banner {
+    margin: 10px 0px 0px 0px;
+    padding: 0px;
+    width: 100%;
+    float: left;
+    height: 500px;
+}
+
+h1 {
+    margin: 0px;
+    padding: 0px;
+    width: 60;
+    font-size: 40px;
+    font-family: cursive;
+    color: #934500;
+}
+
+.bot {
+    margin: 50px 0px 0px 0px;
+    padding: 0px;
+    float: left;
+    width: 100%;
+   
+}
+
+.bottom {
+    margin: 20px 0px 0px 30px;
+    padding: 0px;
+    width: 60%;
+    float: left;
+    font-size: 50px;
+    font-family: cursive;
+    color: #934500;
+
+}
+
+li {
+    margin: 0px;
+    padding: 0px;
+    width: 60%;
+    float: left;
+    font-size: 20px;
+    font-family: cursive;
+    color: #934500;
+}
+
+.bottom-2 {
+    margin: 0px;
+    padding: 0px;
+    width: 30%;
+    float: left;
+}
+
+.bottom-2 img {
+    margin: 100px 0px 0px 100px;
+    padding: 0px;
+    float: left;
+    width: 90%;
+    height: 300px;
+}
+
+.footer {
+    margin: 70px 0px 0px 0px;
+    padding: 0px;
+    float: left;
+    width: 100%;
+    /* background-color: #ee9670; */
+    background-color: #e4a286;
+    color: #934500;
+}
+
+.PRO,
+.STO,
+.FLA,
+.LOC {
+    margin: 10px 0px 0px 50px;
+    padding: 0px;
+    float: left;
+    width: 20%;
+
+}
+
+.PRO img,
+.STO img,
+.FLA img,
+.LOC img {
+    margin: 10px;
+    padding: 0px;
+    width: 15%;
+}
